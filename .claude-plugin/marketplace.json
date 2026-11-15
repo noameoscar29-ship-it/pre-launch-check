@@ -1,0 +1,11 @@
+{
+  "name": "pre-launch-check",
+  "owner": { "name": "NEO STUDIO" },
+  "plugins": [
+    {
+      "name": "pre-launch-check",
+      "source": "./",
+      "description": "צ'קליסט בקרת איכות לאתרי תדמית לעסקים בישראל לפני פרסום."
+    }
+  ]
+}
